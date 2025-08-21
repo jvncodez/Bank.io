@@ -13,13 +13,13 @@ O sistema oferece:
 
 - Solicitação do **nome do usuário** com mensagens de boas-vindas personalizadas.  
 - Menu interativo com opções:  
-  1. Depositar  
-  2. Sacar  
-  3. Extrato  
-  4. Criar novo usuário  
-  5. Criar nova conta  
-  6. Listar contas  
-  0. Sair  
+1. Depositar  
+2. Sacar  
+3. Extrato  
+4. Criar novo usuário  
+5. Criar nova conta  
+6. Listar contas  
+0. Sair  
 
 - **Depósitos** com registro automático no extrato.  
 - **Saques** com validação de:  
